@@ -570,9 +570,9 @@ def paraphrasing_detection(input_text, explanation, model):
     # Generate response
     response = model.generate_content(question)
     return response.text.strip()
-
+```
 You can easily call that function on top of your text data.
-
+```pytho
 # Import the paraphrasing_detection function from the core_nlp module
 from core_nlp import paraphrasing_detection
 
@@ -584,7 +584,9 @@ intent_result = paraphrasing_detection(user_input, explanation=True, model=model
 
 # Print the paraphrasing detection result
 print(intent_result)
+```
 
+```bash
 ##### OUTPUT OF ABOVE CODE #####
 
 Answer: yes
