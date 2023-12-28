@@ -603,9 +603,9 @@ the same meaning,  such as "sets" and "goes down" for the verb and
 There are many more features introduced in this library. This is just a glimpse of how LLMs reshape NLP tasks and simplify the handling of text data. Explore the full potential by checking out my [GitHub repository](https://github.com/FareedKhan-dev/Most-powerful-NLP-library), which includes features like generating embeddings for cosine similarity, text summarization, and more. Feel free to adapt the library for your specific domain, whether it’s medical or any other. I hope you enjoy reading this blog.
 
 If you want to build your own LLM from scratch or understand the mathematical aspects of transformers, you can refer to my other blogs:
-[**Solving Transformer by Hand: A Step-by-Step Math Example**
+* [**Solving Transformer by Hand: A Step-by-Step Math Example**
 *Performing numerous matrix multiplications to solve the encoder and decoder parts of the transformer*levelup.gitconnected.com](https://levelup.gitconnected.com/understanding-transformers-from-start-to-end-a-step-by-step-math-example-16d4e64e6eb1)
-[**Building a Million-Parameter LLM from Scratch Using Python**
+* [**Building a Million-Parameter LLM from Scratch Using Python**
 *A Step-by-Step Guide to Replicating LLaMA Architecture*levelup.gitconnected.com](https://levelup.gitconnected.com/building-a-million-parameter-llm-from-scratch-using-python-f612398f06c2)
 
 <hr>
