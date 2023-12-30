@@ -11,7 +11,7 @@ I tried out several open-source LLMs like [Mistral 8x7b](https://huggingface.co/
 
 Here is a simple visual illustration of how I have used Gemini multi-model to perform NLP tasks on my dataset:
 
-![Visual illustration of how my library works ( [Created using FIGMA](https://www.figma.com/) )](https://cdn-images-1.medium.com/max/3020/1*BmW2FzclMY-pghvFuMTNDg.png)
+![Visual illustration of how my library works](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BmW2FzclMY-pghvFuMTNDg.png)
 
 ## list of features avaliable in my library
 
