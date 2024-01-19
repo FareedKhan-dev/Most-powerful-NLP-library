@@ -11,7 +11,8 @@ I tried out several open-source LLMs like [Mistral 8x7b](https://huggingface.co/
 
 Here is a simple visual illustration of how I have used Gemini multi-model to perform NLP tasks on my dataset:
 
-![Visual illustration of how my library works](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BmW2FzclMY-pghvFuMTNDg.png)
+<img src="large_text_working.png" alt="Visual illustration of how my library works">
+
 
 ## list of features avaliable in my library
 
@@ -532,7 +533,7 @@ Up until now, we’ve worked with relatively small text data, like short sentenc
 
 Another approach to handling larger data is to break it into more extensive chunks, for example, 500 sentences per chunk, to preserve dataset information. If you want to apply the text_summarization task, you can then provide the summaries of each chunk in a combined manner to generate one detailed summary for the entire text.
 
-![Visual Illustration of how to handle large text data](https://cdn-images-1.medium.com/max/3576/1*Wf17hrjz62k5xe6h3As4Jg.png)
+![Visual Illustration of how to handle large text data](https://cdn-images-1.medium.com/v2/resize:fit:3576/1*Wf17hrjz62k5xe6h3As4Jg.png)
 
 There are several ways to handle big data, but the approaches I’ve just shared are among the most common and practical.
 
